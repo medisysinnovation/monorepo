@@ -1,6 +1,6 @@
 {
   "name": "@chrisluyi/demo-lib1",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Chris Lu Yi <chris_lu@medinno.onmicrosoft.com>",
   "homepage": "https://github.com/RequiemSoul/monorepo/tree/master/packages/demo-lib1#readme",
