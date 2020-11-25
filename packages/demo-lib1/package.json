@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Chris Lu Yi <chris_lu@medinno.onmicrosoft.com>",
   "homepage": "https://github.com/RequiemSoul/monorepo/tree/master/packages/demo-lib1#readme",
