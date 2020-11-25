@@ -1,6 +1,11 @@
-36 error Error: Command failed: git push --follow-tags --no-verify --atomic origin main
-36 error remote: Permission to RequiemSoul/monorepo.git denied to medisysinnovation.
-36 error fatal: unable to access 'https://github.com/RequiemSoul/monorepo.git/': The requested URL returned error: 403
-36 error
-36 error     at makeError (C:\Users\chris\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
-36 error     at C:\Users\chris\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:278:16
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': 'C:\\Users\\chris\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: 'demo-lib1'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath D:\Projects\monorepo
+3 error Error: 404 Not Found - GET https://registry.npmjs.org/demo-lib1 - Not found
+3 error     at C:\Users\chris\AppData\Roaming\npm\node_modules\lerna\node_modules\@evocateur\npm-registry-fetch\check-response.js:104:15
